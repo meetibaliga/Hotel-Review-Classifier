@@ -1,3 +1,4 @@
+#making sets
 for i in {1..25}
 do
 python3 baliga-meeti-assgn2.py make_sets
